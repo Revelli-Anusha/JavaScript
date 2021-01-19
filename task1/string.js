@@ -97,17 +97,6 @@ if(r===res){
     console.log("'===' operator:- " + "False")
 }
 
-//---------------------------------------------------------------------------------
-// forEach()
-var arr = [1,5,6,8,9,10,12];
-var sum = 0;
-arr.forEach(function Function(ele){
-    sum = sum + ele;
-    console.log("forEach:- " + sum);
-});
-
-
-
 
 
 
